@@ -1,6 +1,7 @@
-### Hi there 👋
-![](https://www.canva.com/design/DAFhr_YsXCw/1MQeVKFNqlzwLY9exw811Q/edit)
-<!--
+
+<p align="center">
+  <img src="https://github.com/HichamElquagh/HichamElquagh/blob/main/cover.png" alt="Image" />
+</p><!--
 **HichamElquagh/HichamElquagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
